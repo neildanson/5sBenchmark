@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "iOSBenchmark", "iOSBenchmark\iOSBenchmark.fsproj", "{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}"
+EndProject
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "DesktopBenchmark", "DesktopBenchmark\DesktopBenchmark.fsproj", "{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}"
+EndProject
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "AndroidBenchmark", "AndroidBenchmark\AndroidBenchmark.fsproj", "{152B915A-545B-41B7-960B-4F29F7D0F93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Release|iPhone.Build.0 = Release|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{152B915A-545B-41B7-960B-4F29F7D0F93B}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Ad-Hoc|iPhone.ActiveCfg = Release|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Ad-Hoc|iPhone.Build.0 = Release|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.AppStore|iPhone.ActiveCfg = Release|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.AppStore|iPhone.Build.0 = Release|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Release|iPhone.Build.0 = Release|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhone
+		{2FC7B80F-F190-4AB9-A3FB-A8411E233D5C}.Release|iPhoneSimulator.Build.0 = Release|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Release|iPhone.Build.0 = Release|iPhone
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5933A3EC-EA69-4155-ACB5-8B3835F3CBB1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AndroidBenchmark\AndroidBenchmark.fsproj
+	EndGlobalSection
+EndGlobal
